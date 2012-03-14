@@ -1,0 +1,12 @@
+Step1:
+http://www.ros.org/wiki/rtt_ros_integration
+
+Step2:
+rosrun rtt_rosnode create_rtt_msgs MyROSPkg
+will create a typekit for msgs in MyROSPkg
+
+Step3: modify manifest.xml of MyOrocosPkg
+
+Step4: See the .cpp/.hpp file on how to use the msg in C++
+
+

@@ -1,0 +1,17 @@
+<package>
+  <description brief="MyROSPkg">
+
+     MyROSPkg
+
+  </description>
+  <author>gajan</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/MyROSPkg</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+
+
+</package>
+
+
